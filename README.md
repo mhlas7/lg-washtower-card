@@ -1,6 +1,7 @@
 ![112699616-35751b00-8e5a-11eb-9bf8-cc09af4847a9](https://user-images.githubusercontent.com/2007088/219449339-a4ee4d38-c8d2-45b9-96c0-0c4ad1325cb0.PNG)
 ![138618307-c7b6a9f0-073e-44df-a70a-8c0acbcb033b](https://user-images.githubusercontent.com/2007088/219449465-211f7ba4-1b8d-4262-8b84-d91e2aa4fd36.png)
 ![LG Fridge Card](images/fridge.png)
+![LG Wash Tower Card](images/washtower.png)
 
 
 This repo is for Home Assistant users who want cards that look like their LG ThinQ enabled machines physical displays. You'll need the LG ThinQ integration already installed.
@@ -9,6 +10,7 @@ This repo contains cards designed for the following device types:
 LG Washer
 LG Dryer
 LG Combo Washer/Dryer
+LG Wash Tower
 LG Mini-Washer
 LG Dishwasher
 LG Fridge
